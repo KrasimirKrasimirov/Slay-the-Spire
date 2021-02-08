@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+Slay the Spire/[Ll]ibrary/
+Slay the Spire/[Tt]emp/
+Slay the Spire/[Oo]bj/
+Slay the Spire/[Bb]uild/
+Slay the Spire/[Bb]uilds/
+Slay the Spire/[Ll]ogs/
+Slay the Spire/[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
-!/[Aa]ssets/**/*.meta
+!Slay the Spire/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
